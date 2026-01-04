@@ -20,6 +20,7 @@ Tools & Automation:
 	SolarWinds, Huawei-U2000, ZTE-NETNUMEN, familiar with automation tools and Infrastructure as Code concepts.
 
 Technical Certifications
+
 	Active Cisco Certified Network Associate (CCNA) | Jan 2024 – Jan 2027 
 	Active AWS Certified Solutions Architect – Associate | Jul 2023 – Jul 2026 
 	Microsoft Certified: Azure Fundamentals | 2020 
