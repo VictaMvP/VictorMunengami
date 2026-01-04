@@ -11,9 +11,11 @@ Core Competencies
 
 Cloud: 
 
-	Cloud Infrastructure (AWS, Azure), currently studying for the AWS Certified CloudOps Engineer – Associate certification, focusing on automation, monitoring, and maintaining secure and highly available AWS workloads.
+	Certified AWS Solutions Architect Associate, Azure Fundamentals 
+	Currently studying for the AWS Certified CloudOps Engineer – Associate certification, focusing on automation, monitoring, and maintaining secure and highly available AWS workloads.
 
 Wireless Technologies: 
+
 	LTE, Microwave, VSAT 
 
 Tools & Automation: 
@@ -26,4 +28,6 @@ Technical Certifications
 	Active AWS Certified Solutions Architect – Associate | Jul 2023 – Jul 2026 
 	Microsoft Certified: Azure Fundamentals | 2020 
 	
-Currently pursuing CCNP ENARSI certification, which focuses on advanced routing technologies, VPN services, infrastructure security, and automation for enterprise networks.
+Currently Studies 
+
+	CCNP ENARSI certification, which focuses on advanced routing technologies, VPN services, infrastructure security, and automation for enterprise networks.
